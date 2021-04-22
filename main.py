@@ -32,7 +32,7 @@ demand = np.array([206., 117., 715., 615., 667., 521., 946., 593.,  67., 117., 6
                    598., 432., 863., 406., 298., 723., 558., 762., 749., 546.,   7.,
                    973., 756.,  15., 128., 173., 610., 574.])
 
-n_orders = 20
+n_orders = 10
 n_simul = 100000  # used for simulation approach only
 
 ClassMinimizeWaste = MinimizeWaste(w, demand)
